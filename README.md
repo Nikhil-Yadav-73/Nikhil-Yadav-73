@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-Yadav-73
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 🌱 Django, DjangoRestFramework, React and much more
 - 📫 How to reach me +91 6353559193
 
 <!---
